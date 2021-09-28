@@ -1,0 +1,6 @@
+{
+  "lexers": {
+    "Red": "red"
+  },
+  "cmd_unix": ["~/bin/redlangserver.sh"]
+}
