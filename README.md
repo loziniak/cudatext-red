@@ -4,7 +4,7 @@
 
 * Syntax coloring
 * Custom `nonword_chars`, enables selection of *kebab-case-words* or *types\!* with double click, and for plugins like *Highlight Occurences*
-* [Red Language Server][3] integration
+* [Red Language Server][3] integration ([works on Linux only][5])
 
 ## Instructions
 
@@ -19,3 +19,4 @@
 [2]: https://cudatext.github.io/
 [3]: https://github.com/bitbegin/redlangserver
 [4]: https://wiki.freepascal.org/CudaText#Location_of_folders_.27settings.27.2C_.27py.27.2C_.27data.27
+[5]: https://github.com/bitbegin/redlangserver/issues/4
